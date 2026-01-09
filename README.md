@@ -1,4 +1,4 @@
 # Krishna-repository
 This is my first git repository 
 <br>
-Author- Manju Maheshwar
+Author- Manju Maheshwar Chandra Shekara Murthy
